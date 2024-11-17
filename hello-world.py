@@ -1,2 +1,2 @@
-myName = 'Victor'
-print(f'Hello {myName}')
+my_name = "Victor W"
+print(f"Hello {my_name}")
